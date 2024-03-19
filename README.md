@@ -24,4 +24,4 @@ Sugarcane Permit Manager is a Java-based application designed to streamline the 
 1. Clone the repository:
 
 ```bash
-git clone .git
+git clone https://github.com/oluyalireuben/Sugarcane-Permit-Manager.git
